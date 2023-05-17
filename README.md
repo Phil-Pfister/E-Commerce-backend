@@ -19,11 +19,13 @@
 
   ## Usage  
   ------------
-  After installation, seed the database by running `npm run seed` After seeding run `npm start` to start the server. 
+  After installation, seed the database by running `npm run seed` After seeding run `npm start` to start the server. See a walkthrough video here:
+
+  [Walkthrough video](https://drive.google.com/file/d/18VhOTo5vN7ecu_tXzIZhjJD7wXJE9ohI/view?usp=share_link)
  
   ## Installation  
   -------------------
-  Clone the repo to your machine and run `npm i` to install node modules and dependencies. Copy .envEXAMPLE and paste into main file and rename .env. Supply login information in the .env file.  Run `mysql -u root -p ` and run `source db/schema to create database.
+  Clone the repo to your machine and run `npm i` to install node modules and dependencies. Copy .envEXAMPLE and paste into main file and rename .env. Supply login information in the .env file.  Run `mysql -u root -p ` and run `source db/schema.sql` to create database.
 
   ## Credits 
   ------------------
